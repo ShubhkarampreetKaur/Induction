@@ -118,3 +118,42 @@ The job market is filled with numerous CSE and IT graduates. To stand out and se
 "Opportunities and Growth"
 
 The industry offers multiple opportunities for skilled individuals. However, to take full advantage of these opportunities, it is important to raise personal benchmarks and continuously strive for professional excellence.
+
+Then he advised us to keep confidence and belief in our religion and motivated us by saying that " i have u all become a very good technocrat and human being. And then he cogratulate all of us.
+
+#  Guest Lecture and Event Management
+
+# Ravinder Garg - Chief Engineer, Municipal Corporation
+
+He Encouraged students to work hard with honesty.
+
+He Emphasized that if you remain committed during these four years of college life, you will achieve success.
+
+Stressed the importance of respecting parents.
+
+Urged students to contribute to the development of their country.
+
+Reminded everyone to never forget their college.
+
+Motivational message:
+
+> "I hope you become a very good technocrat and human being. Congratulations to everyone."
+
+
+
+
+
+---
+
+Event Managed By:
+
+Department of Applied Science
+Coordinator: Harpreet Kaur Grewal
+
+Special Note by Dr. Kulwinder Singh Maan:
+
+There is not even a 1% difference between CSE and IT branches in terms of opportunities.
+
+During selection processes, your branch will not matter—everyone goes through the same evaluation process.
+
+
