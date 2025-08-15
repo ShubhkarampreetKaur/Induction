@@ -135,22 +135,12 @@ Urged students to contribute to the development of their country.
 
 Reminded everyone to never forget their college.
 
-Motivational message:
+# Event Managed By:
 
-> "I hope you become a very good technocrat and human being. Congratulations to everyone."
+# Department of Applied Science
+# Coordinator: Harpreet Kaur Grewal
 
-
-
-
-
----
-
-Event Managed By:
-
-Department of Applied Science
-Coordinator: Harpreet Kaur Grewal
-
-Special Note by Dr. Kulwinder Singh Maan:
+# Special Note by Dr. Kulwinder Singh Maan:
 
 There is not even a 1% difference between CSE and IT branches in terms of opportunities.
 
