@@ -171,4 +171,33 @@ During selection processes, your branch will not matter—everyone goes through 
 ## 3:00 PM - 4:30 PM: Causmic Club Session & Induction Launch  
 - Created account on GitHub  
 - Learned basics of GitHub including version control, repositories, and markdown files  
-- Official launch of induction activities  
+- Official launch of induction activities
+  
+## Day 3 – 2 August 2025
+
+### **Session by Dr. Jaswinder Singh**
+- He Established Science and Maths labs in the core department.
+- He is First person in Punjab to win an award from the Government of Punjab.
+- He is Recipient of many awards.
+- 
+### **Key Learning – Focus Your Aim**
+**By deciding your purpose**
+
+### **Self-Reflection**
+
+- Talk to yourself.
+- Focus on your own work.
+
+## Meditation Session
+See with closed eyes, hear with closed ears.
+- Discussed meaning of meditation
+
+## Guest Lecture – Dr. Priya Darshani
+### she talk about following points
+
+- **Physical facility** is necessary for human well-being, but something more is required.
+- She mainly focussed discussion on happiness
+- then she talked sbout the reasons of Unhappiness in families:
+    - Not mainly due to lack of physical facilities.
+    - More due to lack of fulfillment in relationships.
+  - Most of the time and effort is spent in acquiring physical facilities.
