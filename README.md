@@ -95,5 +95,26 @@ There is no substitute for hard work.
 
 Practice persistence to overcome obstale 
 
+# Principal Sehajpal Singh
 
+Then our respected principal told us about the Role of Engineering and Future Prospects in CSE & IT
 
+He told us about following points 
+
+That Engineering plays a crucial role in modern society, as it is deeply integrated into our daily lives, lifestyle, and needs. It provides innovative solutions to various challenges through problem-solving techniques and advancements in fields such as Artificial Intelligence (AI), Cybersecurity, and Data Science.
+
+"Fast Development in Technology"
+
+Technological progress, particularly in AI-based tools, has made tasks easier and more efficient. This rapid development has transformed industries and opened new opportunities for professionals.
+
+"Responsibilities of CSE and IT Professionals"
+
+With the rise of AI and digital transformation, the role of Computer Science and Information Technology professionals has significantly expanded. As aspiring CSE and IT graduates, it is essential to acquire a wide range of skills that align with industry demands.
+
+"Competitive Market and Skill Enhancement"
+
+The job market is filled with numerous CSE and IT graduates. To stand out and secure a place in the industry, one must focus on value addition—developing specialized skills, gaining practical experience, and staying updated with emerging technologies.
+
+"Opportunities and Growth"
+
+The industry offers multiple opportunities for skilled individuals. However, to take full advantage of these opportunities, it is important to raise personal benchmarks and continuously strive for professional excellence.
