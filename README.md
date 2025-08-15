@@ -53,5 +53,47 @@ Patience → Prayer
 
 Persistence → Placement
 
+***Dean Academics – Dr. Akshay Girdhar Sir***
+
+Dr. Akshay Girdhar highlighted the importance of a good curriculum and the wide range of opportunities provided to students.
+
+He introduced the concept of the T-Shape professional:
+
+***Vertical bar (Core Subject Knowledge):*** Represents deep expertise in one’s core field.
+
+***Horizontal bar (Communication, Values, Extra Activities):*** Represents additional skills like communication, values, teamwork, and participation in extra-curricular activities.
+
+
+Key takeaways:
+
+Peer learning helps in personal and professional growth.
+
+Participation in co-curricular activities aids in social development.
+
+Visualization techniques can improve retention power and understanding.
+
+ ***Harleen Kaur Grewal – CSE Department***
+
+Harleen Kaur Grewal praised GNDEC for its academic environment and opportunities. She emphasized that bearing the name of Guru Nanak Dev Ji is a blessing for every student of the institute.
+
+She also shared the quote:
+“Man tu jot saroop hai”
+(Meaning: O my mind, you are the embodiment of the Divine Light).
+
+
+---
+
+ ***Dr. Parminder Singh – History***
+
+Dr. Parminder Singh motivated students through his life lessons:
+
+Face challenges and remain focused on your goals.
+
+Dream big and work hard to achieve them.
+
+There is no substitute for hard work.
+
+Practice persistence to overcome obstale 
+
 
 
