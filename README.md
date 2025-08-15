@@ -1,4 +1,4 @@
-10.# Induction
+# Induction
 **Name:** Shubhkarampreet Kaur
 **Department:** CSE
 # My First experience @GNDEC
@@ -18,29 +18,39 @@ Engage in hackathons, ACME, and other technical events to enhance skills and pra
 # Insights from Seniors
 
 # Sangam Arora – Topper (2021–2025)
-Software Engineer, Argusoft
-College life is not only about academics — participate in clubs to develop leadership and teamwork skills.
+He is a Software Engineer, Argusoft
+He told us that College life is not only about academics. We should participate in clubs to develop leadership and teamwork skills.
 
-# For successful placements, focus on:
+ For successful placements, focus on:
 Aptitude
+
 Data Structures & Algorithms (DSA)
+
 Communication skills
+
 Teamwork
+
 Programming
+
 Success is effort-based — consistent preparation is key.
 
 # Arshpreet Singh (2021–2025)
-Automation Engineer, IT Department, Airtel Gurugram
-Give your 100% effort in every task.
+He is a Automation Engineer, IT Department, Airtel Gurugram
+He told us to Give our 100% effort in every task.
+
 Maintain a balance between academics and extracurricular activities.
+
 Never underestimate yourself — confidence drives growth.
 
 # Harpreet Kaur Grewal [Head of Department (HOD), Applied Science]
-She welcomed students and told us Placements depend directly on your personal efforts and dedication.Always put 100% input into your work.
+She welcomed students and told us that Placements depend directly on your personal efforts and dedication.Always put 100% input into your work.
 
-# Formula for Success
+Formula for Success
+
 Passion → Perseverance
+
 Patience → Prayer
+
 Persistence → Placement
 
 
