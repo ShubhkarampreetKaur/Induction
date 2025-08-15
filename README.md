@@ -3,21 +3,21 @@
 **Department:** CSE
 # My First experience @GNDEC
 # Day 1 [ 31st july 2025 ]
-# 8.30 to 9.30
+## 8.30 to 9.30
 Our very first day start with the shabd and kirtan in gurudwara sahib of GNDEC. We took boessings from god
-# 9.30 to 10.30
+## 9.30 to 10.30
 Tea and snacks arrangement was there for us 
-# after 10.30
+## after 10.30
 All of us went to auditoroum
 The first day of the induction program was anchored by Taranpreet Kaur. The Guest of Honour for the event was Shri Ravinder Garg, Chief Engineer at the Municipal Corporation. The session, conducted by Harsimran Singh Jogi, began with an introduction to Guru Nanak Dev Engineering College (GNDEC), which was established in 1956 under the management of the Nankana Sahib 
 Education Trust, founded in 1953. The college recently celebrated its 70th Year Anniversary and is notable for having 70% of its students from rural areas. The foundation stone of GNDEC was laid by Dr. Rajendra Prasad, the first President of India. The institution holds an A grade accreditation from NAAC and offers NBA-accredited undergraduate and postgraduate courses in various discipline.
 
-# Participation in Technical Activities
+## Participation in Technical Activities
 Engage in hackathons, ACME, and other technical events to enhance skills and practical knowledge.
 
 # Insights from Seniors
 
-# Sangam Arora – Topper (2021–2025)
+## Sangam Arora – Topper (2021–2025)
 He is a Software Engineer, Argusoft
 He told us that College life is not only about academics. We should participate in clubs to develop leadership and teamwork skills.
 
@@ -34,7 +34,7 @@ Programming
 
 Success is effort-based — consistent preparation is key.
 
-# Arshpreet Singh (2021–2025)
+## Arshpreet Singh (2021–2025)
 He is a Automation Engineer, IT Department, Airtel Gurugram
 He told us to Give our 100% effort in every task.
 
@@ -53,7 +53,7 @@ Patience → Prayer
 
 Persistence → Placement
 
-***Dean Academics – Dr. Akshay Girdhar Sir***
+## Dean Academics – Dr. Akshay Girdhar Sir
 
 Dr. Akshay Girdhar highlighted the importance of a good curriculum and the wide range of opportunities provided to students.
 
@@ -72,7 +72,7 @@ Participation in co-curricular activities aids in social development.
 
 Visualization techniques can improve retention power and understanding.
 
- ***Harleen Kaur Grewal – CSE Department***
+ ## Harleen Kaur Grewal – CSE Department 
 
 Harleen Kaur Grewal praised GNDEC for its academic environment and opportunities. She emphasized that bearing the name of Guru Nanak Dev Ji is a blessing for every student of the institute.
 
@@ -83,7 +83,7 @@ She also shared the quote:
 
 ---
 
- ***Dr. Parminder Singh – History***
+ ## Dr. Parminder Singh 
 
 Dr. Parminder Singh motivated students through his life lessons:
 
@@ -103,7 +103,7 @@ He told us about following points
 
 That Engineering plays a crucial role in modern society, as it is deeply integrated into our daily lives, lifestyle, and needs. It provides innovative solutions to various challenges through problem-solving techniques and advancements in fields such as Artificial Intelligence (AI), Cybersecurity, and Data Science.
 
-"Fast Development in Technology"
+### Fast Development in Technology
 
 Technological progress, particularly in AI-based tools, has made tasks easier and more efficient. This rapid development has transformed industries and opened new opportunities for professionals.
 
@@ -146,4 +146,29 @@ There is not even a 1% difference between CSE and IT branches in terms of opport
 
 During selection processes, your branch will not matter—everyone goes through the same evaluation process.
 
+# Day 2 Induction Report – [1 august 2025]
 
+## 9:30 AM - 10:30 AM: English Proficiency Test  
+- Participated in the English Proficiency Test  
+- Focused on grammar, comprehension, and vocabulary  
+
+## 10:30 AM - 11:30 AM: Maths Proficiency Test  
+- Solved logical reasoning and mathematical aptitude questions  
+
+## 11:30 AM - 1:00 PM: Lunch Break  
+
+## 1:00 PM - 3:00 PM: Expert Lecture & Scholarship Awareness  
+
+### Expert Lecture by Dr. Arashdeep Singh (PAU University)  
+ "Food: A Pivotal Role in Student's Overall Wellness"  
+- Discussed the importance of a balanced diet for mental and physical health  
+- Shared tips on staying fit and maintaining wellness through nutrition  
+
+### Scholarship Awareness by BUDDY4STUDY (Noida)  
+- Introduced the Sataya Scholarship Program 2025  
+- Provided step-by-step guidelines on how to apply  
+
+## 3:00 PM - 4:30 PM: Causmic Club Session & Induction Launch  
+- Created account on GitHub  
+- Learned basics of GitHub including version control, repositories, and markdown files  
+- Official launch of induction activities  
