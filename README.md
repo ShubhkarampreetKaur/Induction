@@ -375,3 +375,45 @@ Also discussed Char Udasiaan of guru nanak dev ji
 - **mail.gndec.ac.in** → GNDEC mail  
 
 ---
+
+## NSS (National Service Scheme)
+Activities under NSS include:
+- 🌱 Free Plantation  
+- 💊 Drug Awareness  
+- 🩸 Blood Donations  
+- 🏥 Medical Camp  
+
+### Reminders
+- Ask mentor about awards  
+- Get your license  
+- Make a reel or short on induction program  
+
+### Scholarships
+- Also learned about scholarships available for students.  
+
+---
+
+## Introduction Session
+- Everyone introduced themselves.  
+
+---
+
+## Digital Marketing Club (DMC)
+
+**Faculty Coordinator**: Dr. Amit Khanna  
+
+- All the content and stuff on **GNDEC social media** is handled by DMC.  
+- Try to attend workshops for learning.  
+- Try to develop your skills.  
+
+### What DMC Offers:
+- Specialized training in areas like:  
+  - 🔍 SEO  
+  - 📱 Social Media Marketing  
+  - 📝 Content Marketing  
+  - 📧 E-mail Marketing  
+
+👉 Allows students to focus on their areas of interest.  
+
+### Extra
+- Digital Marketing course available on **NPTEL**.
