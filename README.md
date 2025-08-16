@@ -421,3 +421,16 @@ Activities under NSS include:
 # Examination Rules and Academic Rules
 
 **By: Dr. Randhir Singh Sir**
+
+
+# Full induction program compilation
+
+## Introduction
+My induction journey at Guru Nanak Dev Engineering College (GNDEC) was a transformative experience, filled with learning, inspiration, and personal growth. From understanding the college's rich history and values to engaging in hands-on technical sessions and leadership activities, this period was pivotal in shaping my outlook and approach toward my academic and professional life.
+
+## Day 1 : A Warm Welcome
+The induction began with a warm welcome in the beautifully decorated Gurudwara sahib ,and after that in auditoroum  we were introduced to the illustrious history of GNDEC. The speeches by faculty and distinguished guests instilled a sense of belonging and motivation to make the most of the opportunities available.
+
+## Day 2 : Satya scholarship 
+Get to know about Satya scholarship and buddy4study website
+
