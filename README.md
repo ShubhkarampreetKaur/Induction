@@ -322,3 +322,28 @@ Also discussed Char Udasiaan of guru nanak dev ji
 - Apply **natural acceptance** in daily interactions  
 - Strengthen **logic building** through practice  
 - Explore **coding languages** in greater depth
+
+- Talked about the goodness of GNDEC college.  
+- Has been one of the ex-students of GNDEC.  
+- **Always respect your teachers** – it should be your duty, rule, or protocol in whatever way you want it to be.  
+- Blesses us for our journey.  
+
+## Dr. Lakhveer Singh Khanna (Incharge - CML)
+
+- Congratulated us for being the successful part of GNDEC.  
+- Talked about **Centre for Multi-faceted Learning (CML)**.  
+
+### About CML
+- This centre is responsible for **holistic development of students**.  
+- Helps in furnishing your **soft skills**:  
+  - Core  
+  - Professional  
+  - Technical  
+  - Personality  
+
+### Programs
+- Programs are designed according to the **needs of students**.  
+- **Deals with:**
+  - Creative content creation  
+  - Designing flyers  
+  - Writing report papers  
