@@ -408,12 +408,16 @@ Activities under NSS include:
 
 ### What DMC Offers:
 - Specialized training in areas like:  
-  - 🔍 SEO  
-  - 📱 Social Media Marketing  
-  - 📝 Content Marketing  
-  - 📧 E-mail Marketing  
+  -  SEO  
+  -  Social Media Marketing  
+  -  Content Marketing  
+  -  E-mail Marketing  
 
 👉 Allows students to focus on their areas of interest.  
 
 ### Extra
 - Digital Marketing course available on **NPTEL**.
+
+# Examination Rules and Academic Rules
+
+**By: Dr. Randhir Singh Sir**
