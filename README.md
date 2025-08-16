@@ -434,3 +434,26 @@ The induction began with a warm welcome in the beautifully decorated Gurudwara s
 ## Day 2 : Satya scholarship 
 Get to know about Satya scholarship and buddy4study website
 
+## Day 3 : Universal human values
+Expert lacture by dr. Priya Darshani Madam
+
+## Day 4 : Universal human values
+Expert lacture by dr. Priya darshani madam
+lacture by causmic club
+lacture by Randhir sir on " conduct of examination "
+
+## Day 5
+no induction program
+
+## Day 6 [ Guest sessions ]
+lacture by S. Gurcharan singh Grewal [ Trustee of college ]
+lacture by Dr. Lakhvir singh Khanna [ Incharge of CML ]
+
+## Day 7
+lacture by Dr. Parminder Singh [ Dean, Student Welfare ]
+lacture by Dr. Amit Khanna 
+
+## Conclusion
+
+The GNDEC induction program was a comprehensive blend of technical education, ethical grounding, and personal development. It provided a solid foundation for the academic journey ahead and equipped us with the necessary tools and mindset to excel both in college and beyond. As I reflect on this experience, I am grateful for the opportunities to learn, grow, and connect with the vibrant community at GNDEC. This induction has set the stage for a fulfilling and enriching college experience, one that I am eager to embrace fully.
+
