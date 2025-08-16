@@ -262,3 +262,63 @@ See with closed eyes, hear with closed ears.
 - **Happiness is not quantitative.**  
 - **Physical facilities are quantitative.**  
 - Both types of needs must be **fulfilled separately**.
+
+## 🧠 Key Learnings  
+
+### 1. Understanding the Self  
+- Practice **imagination before responding**.  
+
+### 2. Three Sources of Desire  
+1. **Preconditioning**  
+2. **Sensation**  
+3. **Natural Acceptance**  
+
+➡️ *Conclusion:* By learning **natural acceptance**, we can apply it in **real life decision-making**.  
+
+# Day 6 report
+
+## 🏫 Session Activities  
+
+- General talk on **personality development**  
+- Discussion on **protocols in college life**  
+- Introduction to a **coding language**  
+- Talked about **logic building**  
+
+---
+
+## 🎓 Guest Sessions  
+
+**Topic:** *Full Form of ChatGPT*  
+- Speaker: *Prof. Jaswant Singh*  
+
+## Chief Guest: *S. Gurcharan Singh Grewal* (Trustee of College)  
+- Spoke about the **teachings of Guru Nanak Dev Ji**  
+
+---
+
+## 🧘 Teachings of Guru Nanak Dev Ji  
+
+1. **Kirat Karo** – Earn honestly  
+2. **Naam Japo** – Meditate/Remember God’s name  
+3. **Vand Chhako** – Share with others  
+
+Also discussed Char Udasiaan of guru nanak dev ji
+
+### Discussed the deep meaning of quote
+> ਵਿਦਿਆ ਸਾਧਣਾ ਦੀਨ ਨੇਹਰ ਪੂਜਾ  
+
+## ✅ Talked about the  Issues Faced  by us 
+- Difficulty in connecting theoretical concepts with real-life examples  
+- Need for more practical coding exercises 
+
+## 🤝 Contributions  
+- Actively participated in **group discussions**  
+- Shared reflections on **natural acceptance**  
+- Noted down key points for **team reference**  
+
+---
+
+## 🚀 Future Scope  
+- Apply **natural acceptance** in daily interactions  
+- Strengthen **logic building** through practice  
+- Explore **coding languages** in greater depth
