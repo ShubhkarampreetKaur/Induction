@@ -2,6 +2,8 @@
 **Name:** Shubhkarampreet Kaur
 
 **Department:** CSE
+
+Section : F1
 # My First experience @GNDEC
 # Day 1 [ 31st july 2025 ]
 ## 8.30 to 9.30
