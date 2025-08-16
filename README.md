@@ -201,3 +201,28 @@ See with closed eyes, hear with closed ears.
     - Not mainly due to lack of physical facilities.
     - More due to lack of fulfillment in relationships.
   - Most of the time and effort is spent in acquiring physical facilities.
+
+# Day 4 [ 4 august 2025 ]
+
+**Welcomed By:**  
+- **Anchor** – Senior member of causmic Club  
+
+## Session by:
+### Priya Darshani Ma’am– UHV  
+
+## Session Highlights
+- **Topic:** Where we spend our time – focus on:
+  1. Right Understanding  
+  2. Relationship (Mutual Happiness)  
+  3. Physical Facility (Mutual Prosperity)  
+
+- **Key Insight:** Shift from *excitement* to *happiness*.  
+
+## Process of Self-Exploration
+- Whatever is stated is a **proposal**.  
+- Verify it on your own through **natural acceptance**.  
+- Do not assume it to be *true* or *false*.  
+
+### Steps:
+1. **Verify**  
+2. **Experimental Validation**  
