@@ -346,4 +346,32 @@ Also discussed Char Udasiaan of guru nanak dev ji
 - **Deals with:**
   - Creative content creation  
   - Designing flyers  
-  - Writing report papers  
+  - Writing report papers
+
+### Online Learning
+- Use **SWAYAM** for lectures rather than using YouTube.
+- Enrolled for a course on SWAYAM (NPTEL):
+  - **Programming with Generative AI**
+---
+
+## Day 7: 7 August 2025
+
+### Speaker: Dr. Parminder Singh (Dean, Student Welfare)
+
+**Key Advice:**
+- Use our four years wisely.
+- Enjoy life as well as work on the purpose we came to college for.
+- Work on **time management**.
+- Identify your **limitations/weaknesses**.
+- Work on overcoming your weaknesses.
+
+---
+
+## Facilities Available for Students
+
+- **exam.gndec.ac.in** → Exam related details  
+- **guru.gndec.ac.in** → Attendance related details  
+- **academics.gndec.ac.in** → Academic details  
+- **mail.gndec.ac.in** → GNDEC mail  
+
+---
